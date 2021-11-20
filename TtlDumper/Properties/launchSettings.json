@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ttldumper": {
+      "commandName": "Project",
+      "commandLineArgs": "--i2cAddress 0x30"
+    }
+  }
+}
